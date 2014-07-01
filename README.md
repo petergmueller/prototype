@@ -1,4 +1,4 @@
-prototype
+stromscanner prototype
 =========
+by petergmueller
 
-Stromscanner prototype
