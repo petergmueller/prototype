@@ -1,4 +1,4 @@
 stromscanner prototype
 =========
-by petergmueller
+MTh by petergmueller
 
